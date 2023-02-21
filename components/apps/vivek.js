@@ -119,7 +119,7 @@ function About() {
                 <div className="bg-white absolute rounded-full p-0.5 md:p-1 top-0 transform -translate-y-1/2 right-0"></div>
             </div>
             <ul className=" mt-4 leading-tight tracking-tight text-sm md:text-base w-5/6 md:w-3/4 emoji-list">
-                <li className=" list-pc">I'm a <span className="font-medium">from Gurunanak Institute of Hotel Management (GNIHM).</span>( Contact me up <a className='text-underline' href='mailto:sknaimuddin234@gmail.com'><u>sknaimuddin234@gmail.com</u></a> :) )</li>
+                <li className=" list-pc">I'm a Graduated from<span className="font-medium">Gurunanak Institute of Hotel Management (GNIHM).</span>( Contact me up <a className='text-underline' href='mailto:sknaimuddin234@gmail.com'><u>sknaimuddin234@gmail.com</u></a> :) )</li>
                 <li className=" mt-3 list-building"> I've completed my 11 months of internship at ITC Royal Bengal and ITC Sonar.</li>
                 <li className=" mt-3 list-time"> When I am not working, I like to spend my time reading books, playing with programming, and watching movies and series. My favourite tv show is F.R.I.E.N.D.S (1994).</li>
                 <li className=" mt-3 list-star"> Hire me if you need to get the job done.</li>
