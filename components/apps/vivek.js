@@ -188,6 +188,6 @@ function Skills() {
 
 function Resume() {
     return (
-        <iframe className="h-full w-full" src="./files/Vivek-Patel-Resume.pdf" title="vivek patel resume" frameBorder="0"></iframe>
+        <iframe className="h-full w-full" src="./files/Sk_Naim_uddin_cv.pdf" title="Sk Naimuddin resume" frameBorder="0"></iframe>
     )
 }
